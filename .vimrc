@@ -1,14 +1,13 @@
 syntax on
 set nohlsearch
 set cursorline
-set number
 set title
 set tabstop=4
 set expandtab
 set shiftwidth=4
 set smartindent
 set list
-set listchars=tab:»-,trail:-,eol:↲,extends:»,precedes:«,nbsp:%
+set listchars=tab:»-,trail:-,extends:»,precedes:«,nbsp:%
 set nrformats-=octal
 set hidden
 set whichwrap=b,s,[,],<,>
